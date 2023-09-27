@@ -97,11 +97,11 @@
 
 <div class="constitution">
     <p> 
-        IMMACULATE FOOTBALL LEAGUE
-League Rules & Constitution
+       <h1 IMMACULATE FOOTBALL LEAGUE </h1>
+       <h1 League Rules & Constitution </h1>
 
 
-As a foreword to this league, and its constitution, I would like to state clearly that the mission and goal of this league is to provide the most elite, immersive experience into fantasy football possible. This is a dynasty style league where multiple players are kept from year to year and is designed so that you can build a team whose rewards you will reap from year to year. Trades will be weighed heavily. Waiver wire pickups could turn into franchise cornerstones. The design and layout of this league has been assembled in such a way to offer a long term, year round fantasy football experience that puts you as close to being an NFL general manager as possible. Let us begin….
+<h2 As a foreword to this league, and its constitution, I would like to state clearly that the mission and goal of this league is to provide the most elite, immersive experience into fantasy football possible. This is a dynasty style league where multiple players are kept from year to year and is designed so that you can build a team whose rewards you will reap from year to year. Trades will be weighed heavily. Waiver wire pickups could turn into franchise cornerstones. The design and layout of this league has been assembled in such a way to offer a long term, year round fantasy football experience that puts you as close to being an NFL general manager as possible. Let us begin….</h2>
 
 Platform For Play
 The league will be run on the “sleeper” app available on iPhone as well as all Android devices. It is 100% free and was tested this year in a one year league I participated in. It was high quality, enjoyable, and very user friendly. It also allows for a variety of individual league customization within the app for dynasty leagues which I was quite impressed with. I’m certain it would be received well by participants.
