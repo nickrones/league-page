@@ -260,7 +260,7 @@ Thank you, and god bless the Patriots
 Commissioner
 Matthew J. Varao
 </p>
-</div>
+
 
 <div class="constitution">
     <h1 class="noUnderscore">IMMACULATE FOOTBALL LEAGUE CONSTITUTION</h1>
