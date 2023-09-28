@@ -98,49 +98,9 @@
 <div class="constitution">
     <p> 
 
-Following Season(s) Draft
-Draft order at the end of the season will follow NFL procedure plus a lottery system
-Last 6 teams (i.e non playoff teams) will be randomized in random.org for the upcoming years draft position. Each of the bottom six teams will have their name entered a certain amount of times into the random depending on their finish in the league. The list will be as follows;
-
-12th place (last) - 10 names in the random lottery 
-11th place - 7 names in the random
-10th place - 5 names in the random
-9th place - 3 names in the random
-8th place - 2 names in the random
-7th place 1 name in the random
-
-Snake draft will then follow on draft day with whatever rookies and free agents that have not been kept are available that year
-*Note Below*
-ALL draft picks for all teams are tradeable. However, should you choose to trade any future pick (example - trading a 2021 3rd round pick) you will be required to provide that specific years league entry fee to the commissioner on the day of the trade before it is processed. This is to ensure that draft picks are not traded recklessly and provide adequate protection to other league members should an individual trades picks and choose not to participate in the following seasons. The goal here is for long term participation amongst the core group of people. Not to scam the league and take off like a whiny bitch after trading picks :) There is absolutely NO exception to this rule.
 
 
 
-Yearly Keepers
-Depending on where a team finishes in the league will determine how many players they are allowed to keep. Details below.
-
-
-** Bottom 6 (non playoff teams) are ordered for the draft lottery according to their standing upon the conclusion of the REGULAR SEASON **
-
-
-Teams finishing in spots 1-4 (champion & next 3)
-Keep 4 players
-Teams finishing in spots 5-8 (middle of the pack)
-Keep 5 players
-Teams finishing in spots 9-12 (bottom 4)
-Keep 6 players
-4th Ammendment (2023 “The Styles Rule aka Value alert) - Only the 6th keeper slot from a bottom 4 team may be used for draft capital compensation prior to the league draft NULL / VOID
-
-6th Ammendment “The K2 Rule” - Any team may use a keeper slot as payment to extend a contract year player instead of paying the 1st round pick penalty.
-
-3rd Ammendment  (Aug 1 2022) As proposed by the Ziltoid
-Keeper “slots” can be traded as an asset to any other league owner
-Yearly Restrictions
-In an effort to keep the league as competitive (and interesting) as possible, there will be slight restrictions as to how many years in a row you may keep a given player. A “contract” if you will
-Each team is allowed to keep any given player for 2 seasons, consecutively, without penalty
-Should any team request to keep a player for a 3rd consecutive year, they will forfeit their 3rd round draft selection for that upcoming draft
-2nd Ammendment  (Aug 1 2022) As proposed by the Ziltoid & unanimously voted
-Keeping a player for 3 consecutive years will result in a 1st round pick penalty
-Keeping a 2nd player for 3 consecutive years will result in a 2nd round pick penalty
 
 5th FIF AMMENDMENT (Aug 14 2023)
 All draft pick related penalties as it pertains to keepers and keeping any given player(s) for 3 years or longer will be an automatic 1st round pick penalty of that upcoming draft. Multiple players kept for 3+ years will demand additional 1st round pick compensation. 
@@ -248,6 +208,12 @@ Matthew J. Varao
 </p>
 </div>
 
+
+
+
+
+
+
 <div class="constitution">
     <h1 class="noUnderscore">IMMACULATE FOOTBALL LEAGUE CONSTITUTION</h1>
     
@@ -263,9 +229,21 @@ Matthew J. Varao
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Yearly Keepers</h3>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Replacing Managers</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Keeper Due Date</h3>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: League Finances</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Team Rosters & Free Agency</h3>
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 8: League Finances</h3>
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 9: League Finances</h3>
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 10: League Finances</h3>
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 11: League Finances</h3>
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 12: League Finances</h3>
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 13: League Finances</h3>
     
     <hr />
     
@@ -308,23 +286,54 @@ Matthew J. Varao
 
     <h2 class="sectionHeading" bind:this={five}>Section 5 Yearly Keepers</h2>
     
-    <p>Depending on where a team finishes in the league will determine how many players they are allowed to keep. Details below.</p>
+    <p>Depending on where a team finishes in the league will determine how many players they are allowed to keep. </p>
 
-    <h2 class="sectionHeading" bind:this={six}>Section 6 Replacing Managers</h2>
-    
-    <p></p>
-    
-    <h3 bind:this={sixTwo}>6.2 Replacing Managers</h3>
-    <p>When a manager needs to be replaced, the commisiooners will try to find a suitable candidate with some connection to at least a portion of the existing managers. Priority will be placed on managers who are eager to take on a dynasty commitment and will be very active within the league.</p>
-    
-    <h3 bind:this={sixThree}>6.3 Replacement Incentive</h3>
-    <p>In the event that a manager chooses to quit the league or is removed by a comissioner, an incoming manager is offered a 50% reductioon on their first year buy-in.</p>
+    <p> ** Bottom 6 (non playoff teams) are ordered for the draft lottery according to their standing upon the conclusion of the REGULAR SEASON **</p>
 
-    <h2 class="sectionHeading" bind:this={seven}>Section 7 League Finances</h2>
+
+	<ul>
+	<li>Teams finishing in spots 1-4 (champion & next 3): >Keep 4 players</li>
+	<li>Teams finishing in spots 5-8 (middle of the pack): >Keep 5 players</li>
+	<li>Teams finishing in spots 9-12 (bottom 4): >Keep 6 players</li>
+	</ul>
+
+   <p>
+4th Ammendment (2023 “The Styles Rule aka Value alert") - Only the 6th keeper slot from a bottom 4 team may be used for draft capital compensation prior to the league draft. NULL / VOID
+
+6th Ammendment (2023 “The K2 Rule”) - Any team may use a keeper slot as payment to extend a contract year player instead of paying the 1st round pick penalty.
+
+3rd Ammendment (Aug 1 2022) As proposed by the Ziltoid: Keeper “slots” can be traded as an asset to any other league owner.
+   </p>
+
+<p>Yearly Restrictions</p>
+<ul>
+<li>In an effort to keep the league as competitive (and interesting) as possible, there will be slight restrictions as to how many years in a row you may keep a given player. A “contract” if you will.</li>
+<li>Each team is allowed to keep any given player for 2 seasons, consecutively, without penalty.</li>
+<li>Should any team request to keep a player for a 3rd consecutive year, they will forfeit their 3rd round draft selection for that upcoming draft
+</ul>
+<p>2nd Ammendment  (Aug 1 2022) As proposed by the Ziltoid & unanimously voted</p>
+<ul>
+<li>Keeping a player for 3 consecutive years will result in a 1st round pick penalty.</li>
+<li>Keeping a 2nd player for 3 consecutive years will result in a 2nd round pick penalty.</li>
+</ul>
+<p>5th FIF AMMENDMENT (Aug 14 2023)</p>
+<ul>
+<li>All draft pick related penalties as it pertains to keepers and keeping any given player(s) for 3 years or longer will be an automatic 1st round pick penalty of that upcoming draft. Multiple players kept for 3+ years will demand additional 1st round pick compensation.</li>
+<p>*NOTE* when a player is traded, their “contract” resets and will be able to be kept for 2 years without penalty on their new roster</p>
+</ul>
+
+    <h2 class="sectionHeading" bind:this={six}>Section 6 Keeper Due Date</h2>
     
-    <h3 bind:this={sevenOne}>7.1 League Dues</h3>
-    <p>League dues are set at {dues}$. Dues are collected through <a href="https://www.leaguesafe.com/league/3949641">LeagueSafe</a> and collection will be sent out no later than the first of August. All managers must be fully paid up before the start of regular season. In the event that a manager fails to pay before the deadline, a 10% penalty will be addd to their payment and will go towards the payouts at the end of the year.</p>
+    <p>Your keepers for the year are due 1 week before the draft. Keeper submissions can be sent via email, text message, USPS, fax, or sexy private direct message to commissioner Matthew Varao.</p>
     
+    <h2 class="sectionHeading" bind:this={seven}>Section 7 Team Rosters & Free Agency</h2>
+    
+
+
+
+
+
+
     <h3 bind:this={sevenTwo}>7.2 Payout</h3>
     <p>League payout is structured as follows:</p>
     <ul>
