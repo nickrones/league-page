@@ -102,74 +102,7 @@
 
 
 
-5th FIF AMMENDMENT (Aug 14 2023)
-All draft pick related penalties as it pertains to keepers and keeping any given player(s) for 3 years or longer will be an automatic 1st round pick penalty of that upcoming draft. Multiple players kept for 3+ years will demand additional 1st round pick compensation. 
-*NOTE* when a player is traded, their “contract” resets and will be able to be kept for 2 years without penalty on their new roster
 
-
-Keeper Due Date
-Your keepers for the year are due 1 week before the draft
-Keeper submissions can be sent via email, text message, USPS, fax, or sexy private direct message to commissioner Matthew Varao.
-
-Team Rosters & Free Agency
-Roster size & positions will be very standard throughout the year
-15 player total roster size (9 starters & 6 bench)
-Roster layout is as follows
-QB, RB, RB, WR, WR, TE, FLEX, K, DEF -  SIX (6) BENCH - 2 IR Slots
-Trades
-Trades will be processed at the discretion of the commissioner
-Barring a unanimous veto from the league, trades will always pass except in the instances of openly recognizable collusion by the parties involved in the trade
-
-Scoring
-(PPR League)
-	     Passing Scoring
-Passing Yards: 1 point per 25 yards
-Passing Touchdowns: 4 points
-Interceptions: -1 points
-Fumble Lost: -2 point
-300 - 399 Yards: 1 Point
-400+ Yards: 1 Point
-
-Rushing Scoring 
-Rushing Yards: 1 point per 10 yards
-Rushing Touchdowns: 6 points
-100+ Yards: 1 Point
-Rushing 1st Down: 0.25 Point
-40+ Yard Rush: 1 Point
-40+ Yard TD: 1 Point
-
-Receiving Scoring 
-Receptions: 1 point
-Receiving Yards: 1 points per 10 yards
-Receiving Touchdowns: 6 points
-100+ Yards: 0.5 Point
-40+ Yard Rec: 1 Point
-40+ Yard TD: 1 Point
-
-Kicking Scoring
-Extra Points: 1 point
-Missed Extra Point: -1 points
-Field Goal 17-39 Points: 3 points
-Field Goal 40-49 Points: 4 points
-Field Goals 50-59 Points: 5 points
-Field Goals 60+ Points: 6 points
-Missed Field Goal: -1 points
-
-
-Defense / Special Teams
-Blocked Kick: 2 points
-Safety: 2 points
-Forced Fumble: 1 point
-Fumble Recovery: 2 point
-Interception: 2 points
-Sack: 1 point
-0 Points Allowed: 10 points
-1-6 Points Allowed: 8 points
-7-13 Points Allowed: 6 points
-14-20 Points Allowed: 3 points
-21-27 Points Allowed: 1 point
-28-34 Points Allowed: 0 points
-35-41 Points Allowed: -4 points
 Scheduling & Divisions
 The league will be split into three divisions of 4 teams 
 League regular season will run from weeks 1-14 of the NFL season
@@ -298,52 +231,122 @@ Matthew J. Varao
 	</ul>
 
    <p>
-4th Ammendment (2023 “The Styles Rule aka Value alert") - Only the 6th keeper slot from a bottom 4 team may be used for draft capital compensation prior to the league draft. NULL / VOID
+	4th Ammendment (2023 “The Styles Rule aka Value alert") - Only the 6th keeper slot from a bottom 4 team may be used for draft capital compensation prior to the league draft. NULL / VOID
 
-6th Ammendment (2023 “The K2 Rule”) - Any team may use a keeper slot as payment to extend a contract year player instead of paying the 1st round pick penalty.
+	6th Ammendment (2023 “The K2 Rule”) - Any team may use a keeper slot as payment to extend a contract year player instead of paying the 1st round pick penalty.
 
-3rd Ammendment (Aug 1 2022) As proposed by the Ziltoid: Keeper “slots” can be traded as an asset to any other league owner.
+	3rd Ammendment (Aug 1 2022) As proposed by the Ziltoid: Keeper “slots” can be traded as an asset to any other league owner.
    </p>
 
-<p>Yearly Restrictions</p>
-<ul>
-<li>In an effort to keep the league as competitive (and interesting) as possible, there will be slight restrictions as to how many years in a row you may keep a given player. A “contract” if you will.</li>
-<li>Each team is allowed to keep any given player for 2 seasons, consecutively, without penalty.</li>
-<li>Should any team request to keep a player for a 3rd consecutive year, they will forfeit their 3rd round draft selection for that upcoming draft
-</ul>
-<p>2nd Ammendment  (Aug 1 2022) As proposed by the Ziltoid & unanimously voted</p>
-<ul>
-<li>Keeping a player for 3 consecutive years will result in a 1st round pick penalty.</li>
-<li>Keeping a 2nd player for 3 consecutive years will result in a 2nd round pick penalty.</li>
-</ul>
-<p>5th FIF AMMENDMENT (Aug 14 2023)</p>
-<ul>
-<li>All draft pick related penalties as it pertains to keepers and keeping any given player(s) for 3 years or longer will be an automatic 1st round pick penalty of that upcoming draft. Multiple players kept for 3+ years will demand additional 1st round pick compensation.</li>
-<p>*NOTE* when a player is traded, their “contract” resets and will be able to be kept for 2 years without penalty on their new roster</p>
-</ul>
+   <p>Yearly Restrictions</p>
+   <ul>
+   <li>In an effort to keep the league as competitive (and interesting) as possible, there will be slight restrictions as to how many years in a row you may keep a given player. A “contract” if you will.</li>
+   <li>Each team is allowed to keep any given player for 2 seasons, consecutively, without penalty.</li>
+   <li>Should any team request to keep a player for a 3rd consecutive year, they will forfeit their 3rd round draft selection for that upcoming draft
+   </ul>
+   <p>2nd Ammendment  (Aug 1 2022) As proposed by the Ziltoid & unanimously voted</p>
+   <ul>
+   <li>Keeping a player for 3 consecutive years will result in a 1st round pick penalty.</li>
+   <li>Keeping a 2nd player for 3 consecutive years will result in a 2nd round pick penalty.</li>
+   </ul>
+   <p>5th FIF AMMENDMENT (Aug 14 2023)</p>
+   <ul>
+   <li>All draft pick related penalties as it pertains to keepers and keeping any given player(s) for 3 years or longer will be an automatic 1st round pick penalty of that upcoming draft. Multiple players kept for 3+ years will demand additional 1st round pick compensation.</li>
+   <p>*NOTE* when a player is traded, their “contract” resets and will be able to be kept for 2 years without penalty on their new roster</p>
+   </ul>
 
     <h2 class="sectionHeading" bind:this={six}>Section 6 Keeper Due Date</h2>
     
     <p>Your keepers for the year are due 1 week before the draft. Keeper submissions can be sent via email, text message, USPS, fax, or sexy private direct message to commissioner Matthew Varao.</p>
     
     <h2 class="sectionHeading" bind:this={seven}>Section 7 Team Rosters & Free Agency</h2>
-    
+	<ul>
+	<li>Roster size & positions will be very standard throughout the year</li>
+	<li>15 player total roster size (9 starters & 6 bench)</li>
+	<li>Roster layout is as follows</li>
+	<li>QB, RB, RB, WR, WR, TE, FLEX, K, DEF -  SIX (6) BENCH - 2 IR Slots</li>
+	</ul>
+
+    <h2 class="sectionHeading" bind:this={seven}>Section 8 Team Rosters & Free Agency</h2>
+	<ul>
+	<li>Trades will be processed at the discretion of the commissioner</li>
+	<li>Barring a unanimous veto from the league, trades will always pass except in the instances of openly recognizable collusion by the parties involved in the trade</li>
+	</ul>
+
+    <h2 class="sectionHeading" bind:this={seven}>Section 9 Scoring</h2>
+
+<p> (PPR league) </p>
+
+<p>Passing Scoring</p>
+<ul>
+<li>Passing Yards: 1 point per 25 yards</li>
+<li>Passing Touchdowns: 4 points</li>
+<li>Interceptions: -1 points</li>
+<li>Fumble Lost: -2 point</li>
+<li>300 - 399 Yards: 1 Point</li>
+<li>400+ Yards: 1 Point</li>
+</ul>
+
+<p>Rushing Scoring </p>
+<ul>
+<li>Rushing Yards: 1 point per 10 yards</li>
+<li>Rushing Touchdowns: 6 points</li>
+<li>100+ Yards: 1 Point</li>
+<li>Rushing 1st Down: 0.25 Point</li>
+<li>40+ Yard Rush: 1 Point</li>
+<li>40+ Yard TD: 1 Point</li>
+</ul>
+
+<p>Receiving Scoring </p>
+<ul>
+<li>Receptions: 1 point</li>
+<li>Receiving Yards: 1 points per 10 yards</li>
+<li>Receiving Touchdowns: 6 points</li>
+<li>100+ Yards: 0.5 Point</li>
+<li>40+ Yard Rec: 1 Point</li>
+<li>40+ Yard TD: 1 Point</li>
+</ul>
+
+<p>Kicking Scoring</p>
+<ul>
+<li>Extra Points: 1 point</li>
+<li>Missed Extra Point: -1 points</li>
+<li>Field Goal 17-39 Points: 3 points</li>
+<li>Field Goal 40-49 Points: 4 points</li>
+<li>Field Goals 50-59 Points: 5 points</li>
+<li>Field Goals 60+ Points: 6 points</li>
+<li>Missed Field Goal: -1 points</li>
+</ul>
+
+<p>Defense / Special Teams</p>
+<ul>
+<li>Blocked Kick: 2 points</li>
+<li>Safety: 2 points</li>
+<li>Forced Fumble: 1 point</li>
+<li>Fumble Recovery: 2 point</li>
+<li>Interception: 2 points</li>
+<li>Sack: 1 point</li>
+<li>0 Points Allowed: 10 points</li>
+<li>1-6 Points Allowed: 8 points</li>
+<li>7-13 Points Allowed: 6 points</li>
+<li>14-20 Points Allowed: 3 points</li>
+<li>21-27 Points Allowed: 1 point</li>
+<li>28-34 Points Allowed: 0 points</li>
+<li>35-41 Points Allowed: -4 points</li>
+</ul>
+
+
+
+    <h2 class="sectionHeading" bind:this={seven}>Section 10 Scheduling & Divisions</h2>
+
+    <h2 class="sectionHeading" bind:this={seven}>Section 11 Team Of The Week</h2>
+
+    <h2 class="sectionHeading" bind:this={seven}>Section 12 Playoffs</h2>
+
+    <h2 class="sectionHeading" bind:this={seven}>Section 13 Payouts</h2>
 
 
 
 
-
-
-    <h3 bind:this={sevenTwo}>7.2 Payout</h3>
-    <p>League payout is structured as follows:</p>
-    <ul>
-        <li>1st place: {dues * 8}$</li>
-        <li>2nd place: {dues * 3}$</li>
-        <li>3rd place: {dues}$</li>
-    </ul>
-    <p>In the event that a manager was fined due to late payment, their extra fee will be added to the winner's payout. Similarly, if new managers come into the league and the payout is smaller, the difference will come out of the winner's prize.</p>
-    
-    <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
-    <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
 
 </div>
