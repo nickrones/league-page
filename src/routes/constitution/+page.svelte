@@ -97,20 +97,6 @@
 
 <div class="constitution">
     <p> 
-        IMMACULATE FOOTBALL LEAGUE
-League Rules & Constitution
-
-
-As a foreword to this league, and its constitution, I would like to state clearly that the mission and goal of this league is to provide the most elite, immersive experience into fantasy football possible. This is a dynasty style league where multiple players are kept from year to year and is designed so that you can build a team whose rewards you will reap from year to year. Trades will be weighed heavily. Waiver wire pickups could turn into franchise cornerstones. The design and layout of this league has been assembled in such a way to offer a long term, year round fantasy football experience that puts you as close to being an NFL general manager as possible. Let us begin….
-
-Platform For Play
-The league will be run on the “sleeper” app available on iPhone as well as all Android devices. It is 100% free and was tested this year in a one year league I participated in. It was high quality, enjoyable, and very user friendly. It also allows for a variety of individual league customization within the app for dynasty leagues which I was quite impressed with. I’m certain it would be received well by participants.
-
-Initial Drafting 
-12 team league depending on total initial participants
-Snake style draft (1-12 then 12 back to 1)
-Inaugural draft will have all 12 participants put into a digital randomizer (random.org) or a physical bingo ball style (if desired by participants)
-Snake style draft will then resume as normal with the 1st overall pick
 
 Following Season(s) Draft
 Draft order at the end of the season will follow NFL procedure plus a lottery system
@@ -268,7 +254,6 @@ Matthew J. Varao
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: Foreword</h3>
-
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: Platform For Play</h3>
         
@@ -304,17 +289,30 @@ Matthew J. Varao
     
     <h2 class="sectionHeading" bind:this={four}>Section 4 Following Season(s) Draft</h2>
     
- 
+    <ul>
+	<li>Draft order at the end of the season will follow NFL procedure plus a lottery system.</li>
+	<li>Last 6 teams (i.e non playoff teams) will be randomized in random.org for the upcoming years draft position. Each of the bottom six teams will have their name entered a certain amount of times into the random depending on their finish in the league. The list will be as follows:</li>
+		<ul>
+			<li>12th place (last) - 10 names in the random lottery </li>
+			<li>11th place - 7 names in the random</li>
+			<li>10th place - 5 names in the random</li>
+			<li>9th place - 3 names in the random</li>
+			<li>8th place - 2 names in the random</li>
+			<li>7th place 1 name in the random</li>
+		</ul>
+	<li>Snake draft will then follow on draft day with whatever rookies and free agents that have not been kept are available that year</li>
+
+	<p> *NOTE </p>
+	<li>ALL draft picks for all teams are tradeable. However, should you choose to trade any future pick (example - trading a 2021 3rd round pick) you will be required to provide that specific years league entry fee to the commissioner on the day of the trade before it is processed. This is to ensure that draft picks are not traded recklessly and provide adequate protection to other league members should an individual trades picks and choose not to participate in the following seasons. The goal here is for long term participation amongst the core group of people. Not to scam the league and take off like a whiny bitch after trading picks :) There is absolutely NO exception to this rule.</li>
+    </ul> 
 
     <h2 class="sectionHeading" bind:this={five}>Section 5 Yearly Keepers</h2>
     
-    <h3 bind:this={fiveOne}>5.1 League Tanking Policy</h3>
-    <p>No team may intentionally leave starting roster spots empty. Any evidence of intentionally leaving roster spots empty in order to improve your draft position may be subject to punishment, including but not limited to the forfeiture of draft selections.</p>
+    <p>Depending on where a team finishes in the league will determine how many players they are allowed to keep. Details below.</p>
 
     <h2 class="sectionHeading" bind:this={six}>Section 6 Replacing Managers</h2>
     
-    <h3 bind:this={sixOne}>6.1 Removing Managers</h3>
-    <p>Short of continuously failing to set a valid lineup, or confirmed collusion, no manager can be removed against their will. Participation, through the league chat, trade offers, and the waiver wire, is strongly encouraged but generally grounds for removal.</p>
+    <p></p>
     
     <h3 bind:this={sixTwo}>6.2 Replacing Managers</h3>
     <p>When a manager needs to be replaced, the commisiooners will try to find a suitable candidate with some connection to at least a portion of the existing managers. Priority will be placed on managers who are eager to take on a dynasty commitment and will be very active within the league.</p>
