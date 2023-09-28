@@ -96,58 +96,6 @@
 </style>
 
 <div class="constitution">
-    <p> 
-
-
-
-
-
-
-Scheduling & Divisions
-The league will be split into three divisions of 4 teams 
-League regular season will run from weeks 1-14 of the NFL season
-
-
-Team Of The Week
-A tasty twist to keep interest throughout the whole season
-Each week, the highest scoring team will receive a payout
-This allows continued interest week to week even for non playoff teams and rewards those who are constantly looking to put the best lineup together
-
-Playoffs
-Weeks 15,16 & 17 will be designated playoff and championship weekend
-Six (6) teams will qualify yearly for the playoffs
-Three division winners will automatically qualify with the first two highest seeds receiving first round byes. The remaining three teams will be filled by best records (tie breaker is total points scored followed by head to head record)
-Championship game is held in week 17
-A league trophy / awards will be assembled yearly by commissioner
-
-PAYOUTS
-Entry Fee: $300 ($3,600 total payout)
-League Champion: $1800
-Runner Up: $600
-1st Ammendment As Proposed by Commissioner Varao
-- 3 Divisions = Payouts $200, $200, $200 
-Top 2 Division Winners Receive 1st Round BYES
-Reg. Season League Scoring Champion: $200
-Team Of The Week: $20 payout each week ($260 total)
-Remaining league dollars will be used to purchase a yearly engraved trophy for the league. It will be the same style and format each year to allow each champion to always have their respective years award
-Weekly payouts will be issued immediately (exactly like Calcutta for those who have participated)
-Yearly payouts & division winners will be sent following the championship game
-
-I hope if you are still reading that you see yourself as a future member of this league. As commissioner, it is my goal to create the most entertaining fantasy football experience possible, and I’d love for you to be a part of it! 
-
-Thank you, and god bless the Patriots
-Commissioner
-Matthew J. Varao
-</p>
-</div>
-
-
-
-
-
-
-
-<div class="constitution">
     <h1 class="noUnderscore">IMMACULATE FOOTBALL LEAGUE CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
@@ -339,14 +287,40 @@ Matthew J. Varao
 
     <h2 class="sectionHeading" bind:this={seven}>Section 10 Scheduling & Divisions</h2>
 
+<p>The league will be split into three divisions of 4 teams. League regular season will run from weeks 1-14 of the NFL season.</p>
+
     <h2 class="sectionHeading" bind:this={seven}>Section 11 Team Of The Week</h2>
+
+<p>A tasty twist to keep interest throughout the whole season. Each week, the highest scoring team will receive a payout. This allows continued interest week to week even for non playoff teams and rewards those who are constantly looking to put the best lineup together.</p>
 
     <h2 class="sectionHeading" bind:this={seven}>Section 12 Playoffs</h2>
 
+<ul>
+<li>Weeks 15,16 & 17 will be designated playoff and championship weekend</li>
+<li>Six (6) teams will qualify yearly for the playoffs</li>
+<li>Three division winners will automatically qualify with the first two highest seeds receiving first round byes. The remaining three teams will be filled by best records (tie breaker is total points scored followed by head to head record)</li>
+<li>Championship game is held in week 17</li>
+<li>A league trophy / awards will be assembled yearly by commissioner</li>
+</ul>
+
     <h2 class="sectionHeading" bind:this={seven}>Section 13 Payouts</h2>
+<ul>
+<li>Entry Fee: $300 ($3,600 total payout)</li>
+<li>League Champion: $1800</li>
+<li>Runner Up: $600</li>
+<p>1st Ammendment As Proposed by Commissioner Varao</p>
+<li>3 Divisions = Payouts $200, $200, $200</li> 
+<li>Top 2 Division Winners Receive 1st Round BYES</li>
+<li>Reg. Season League Scoring Champion: $200</li>
+<li>Team Of The Week: $20 payout each week ($260 total)</li>
+<li>Remaining league dollars will be used to purchase a yearly engraved trophy for the league. It will be the same style and format each year to allow each champion to always have their respective years award</li>
+<li>Weekly payouts will be issued immediately (exactly like Calcutta for those who have participated)</li>
+<li>Yearly payouts & division winners will be sent following the championship game</li>
+</ul>
 
+<p>I hope if you are still reading that you see yourself as a future member of this league. As commissioner, it is my goal to create the most entertaining fantasy football experience possible, and I’d love for you to be a part of it! </p>
 
-
-
-
+<p>Thank you, and god bless the Patriots</p>
+<p>Commissioner</p>
+<p>Matthew J. Varao</p>
 </div>
