@@ -8,6 +8,90 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>The mission and goal of this league is to provide the most elite, immersive experience in fantasy football possible. This is a dynasty style league where multiple players are kept from year to year and is designed so that you can build a team whose rewards you will reap from year to year. Trades will be weighed heavily. Waiver wire pickups could turn into franchise cornerstones. The design and layout of this league has been assembled in such a way to offer a long term, year round fantasy football experience that puts you as close to being an NFL general manager as possible. Let us begin.</p>
+  <p>
+  </p>
+  <p>IFL Fantasy Championship Preview: GuntherWheeler vs. Nicky Styles
+The stage is set for an epic battle in the IFL Championship, as GuntherWheeler (11-3, #1 overall seed) seeks a historic three-peat against Nicky Styles (9-5, #3 overall seed). With contrasting team compositions and recent performances, this matchup promises fireworks.
+
+Team Overview
+GuntherWheeler (11-3, 1st Overall Seed)
+Points Scored: 1991.46 (1st)
+Key Narrative: Dominant all season, GuntherWheeler aims to cement dynasty status. A balanced roster with explosive upside makes this team the favorite.
+Nicky Styles (9-5, 3rd Overall Seed)
+Points Scored: 1807.57 (5th)
+Key Narrative: The underdog story. Despite finishing second in the Gotham Division, Nicky Styles' team has caught fire at the right time, powered by breakout performances.
+Position-by-Position Breakdown
+Quarterback
+GuntherWheeler: Lamar Jackson (BAL)
+
+Last Week: 207 YD, 3 TDs, 22 rushing yards (22.88 PTS)
+Analysis: Jackson's dual-threat ability and three-touchdown game last week highlight his ceiling. Against a weak secondary, he could dominate.
+Nicky Styles: Baker Mayfield (TB)
+
+Last Week: 303 YD, 2 TDs, 42 rushing yards (25.07 PTS)
+Analysis: Mayfield has been a surprising star, combining solid passing stats with underrated mobility. His high usage gives him a strong floor.
+Edge: GuntherWheeler. Jackson's rushing upside gives him the edge.
+
+Running Backs
+GuntherWheeler:
+
+Saquon Barkley (PHI): 150 YD, 2 TDs (29.00 PTS)
+Devon Achane (MIA): 120 YD, 1 TD, 70 receiving yards (28.00 PTS)
+Nicky Styles:
+
+Kyren Williams (LAR): 122 YD, 1 TD (24.90 PTS)
+James Conner (ARI): 117 YD, 1 TD, 49 receiving yards (30.60 PTS, Questionable)
+Edge: GuntherWheeler. Barkley and Achane are red-hot, with elite volume and explosive playmaking. Conner's health status tilts this in Gunther's favor.
+
+Wide Receivers
+GuntherWheeler:
+
+Jameson Williams (DET): 143 YD, 1 TD (25.00 PTS)
+CeeDee Lamb (DAL): 105 YD (18.50 PTS, Questionable)
+Nicky Styles:
+
+Courtland Sutton (DEN): 50 YD (10.00 PTS)
+Keenan Allen (CHI): 141 YD, 1 TD (31.60 PTS)
+Edge: Nicky Styles. Allen’s monster game last week and consistency make him the best receiver in this matchup. If Lamb plays, it could even out.
+
+Tight End
+GuntherWheeler: Dalton Schultz (HOU)
+
+Last Week: 45 YD, 1 TD (13.50 PTS)
+Nicky Styles: Brock Bowers (LV)
+
+Last Week: 99 YD (20.90 PTS)
+Edge: Nicky Styles. Bowers' involvement in the Raiders’ offense makes him a matchup nightmare.
+
+Flex
+GuntherWheeler: Rico Dowdle (DAL): 51 total yards (7.10 PTS)
+Nicky Styles: Jakobi Meyers (LV): 41 yards (6.10 PTS)
+Edge: GuntherWheeler. Dowdle’s role in Dallas’ offense gives him the edge over Meyers’ low floor.
+
+Kicker
+GuntherWheeler: Jake Moody (SF): 1 FG, 2 XP (5.00 PTS)
+Nicky Styles: Cameron Dicker (LAC): 4 FGs, 2 XP (10.00 PTS)
+Edge: Nicky Styles. Dicker’s accuracy and long-distance ability make him the better play.
+
+Defense
+GuntherWheeler: Detroit (DET): 2 sacks, 2 fumble recoveries (10.00 PTS)
+Nicky Styles: Buffalo (BUF): 2 sacks, 1 TD (16.00 PTS)
+Edge: Nicky Styles. Buffalo’s playmaking ability is a significant factor.
+
+Keys to Victory
+GuntherWheeler:
+Explosive RB Play: Barkley and Achane must maintain their dominant form.
+Lamar’s Rushing Upside: Jackson needs to capitalize on his legs to maximize points.
+CeeDee Lamb’s Health: A fully active Lamb could solidify WR dominance.
+Nicky Styles:
+Keenan Allen: Another 30+ point performance would be critical.
+James Conner’s Availability: Conner’s dual-threat potential is key to keeping pace with Gunther’s RBs.
+Buffalo Defense: A repeat of last week’s scoring could swing the matchup.
+Prediction
+GuntherWheeler’s star-studded lineup and superior depth make them the favorite to secure a third consecutive title. However, if Nicky Styles gets big games from Keenan Allen and the Buffalo defense, the upset is within reach.
+
+Projected Winner: GuntherWheeler, 194.5 – 176.2
+<p/>
   `;
 
 /*   STEP 3   */
